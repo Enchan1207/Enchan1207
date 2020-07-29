@@ -1,16 +1,13 @@
-### Hi there 👋
-
+### Hi there! I'm Enchan1207.
 <!--
-**Enchan1207/Enchan1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![userstat](https://github-readme-stats.vercel.app/api?username=Enchan1207&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 -->
+
+[![userlang](https://github-readme-stats.vercel.app/api/top-langs/?username=Enchan1207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
+BASICからSwiftまで、楽しい言語をおいしいとこだけ。  
+最近はSwiftプロジェクトのCI/CDにのめり込んでいます(笑)  
+
+- 🌱 learning: Swift
+- 🔥 addicted: CI/CD
+- 🤔 can't understand everything: Web frontend
