@@ -10,7 +10,9 @@
 🔥 Swift  
 🤔 Web frontend  
 
-### Latest Releases: [Swiita](https://github.com/Enchan1207/Swiita)
+### Latest Releases
 
-![banner](https://github.com/Enchan1207/Swiita/blob/master/banner.png)  
+### [Swiita](https://github.com/Enchan1207/Swiita)
+
+[![banner](https://github.com/Enchan1207/Swiita/blob/master/banner.png)  ](https://github.com/Enchan1207/Swiita)
 Simple iOS Framework for Qiita API written in Swift.
