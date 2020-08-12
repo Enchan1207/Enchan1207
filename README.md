@@ -8,7 +8,7 @@
 　  
 🌱 CI/CD  
 🔥 Swift  
-🤔 Web frontend  
+🤔 CAN connection  
 
 ### Latest Releases
 
