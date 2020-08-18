@@ -6,9 +6,9 @@
 
 [![userstat](https://github-readme-stats.vercel.app/api?username=Enchan1207&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 　  
-🌱 CI/CD  
-🔥 Swift  
-🤔 CAN connection  
+🌱 CI/CD, GitHub Pages  
+🔥 Swift, AVR  
+🤔 CAN connection and its protocol  
 
 ### Latest Releases
 
