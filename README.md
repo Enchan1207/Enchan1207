@@ -20,6 +20,10 @@ Serial-terminal software written in C. [Go on the latest releases](https://githu
 [<img src="https://github.com/Enchan1207/Swiita/blob/master/banner.png" width="150">](https://github.com/Enchan1207/Swiita)  
 Simple iOS Framework for Qiita API. [Go on the latest releases](https://github.com/Enchan1207/Swiita/releases)  
 
+### [CartUtil](https://github.com/Enchan1207/CartUtil)
+
+Chrome Extension for akizukidenshi.com and switch-science.com providing wishlist. [Go on the latest releases](https://github.com/Enchan1207/CartUtil/releases)  
+
 ## Contributions
 
  - [Swifter](https://github.com/mattdonnelly/Swifter/)
