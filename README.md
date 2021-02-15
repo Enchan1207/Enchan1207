@@ -14,18 +14,25 @@ And I love Swift!
 I released some applications, command line tools, chrome extensions, ... and more!  
 Click release badge to jump latest release page.  
 
+---
+
 ### [GitGrass Indicator](https://github.com/Enchan1207/GitGrassIndicator)  
 [<img width="150" src="https://github.com/Enchan1207/GitGrassIndicator/blob/main/banner.png" />](https://github.com/Enchan1207/GitGrassIndicator)  
 ![lang:Swift](https://img.shields.io/badge/language-Swift-FA7343) 
 [![version](https://img.shields.io/github/v/release/Enchan1207/GitGrassIndicator)](https://github.com/Enchan1207/GitGrassIndicator/releases) 
-[![](https://github.com/Enchan1207/GitGrassIndicator/workflows/Periodic%20update/badge.svg)](https://github.com/Enchan1207/GitGrassIndicator/actions)  
+[![CI](https://github.com/Enchan1207/GitGrassIndicator/workflows/Periodic%20update/badge.svg)](https://github.com/Enchan1207/GitGrassIndicator/actions) 
+[![Qiita posted](https://img.shields.io/badge/Qiita-posted-55C500?logo=Qiita)](https://qiita.com/Enchan/items/62fd1796c882847f44f4)  
 Draw a contribution ring on the Twitter icon.
 
+---
 
 ### [SerialTerm](https://github.com/Enchan1207/SerialTerm)
+
 ![lang:C](https://img.shields.io/badge/language-C-A8B9CC) 
 [![version](https://img.shields.io/github/v/release/Enchan1207/Serialterm)](https://github.com/Enchan1207/SerialTerm/releases)  
 Serial-terminal software for Linux and OS X.
+
+---
 
 ### [Swiita](https://github.com/Enchan1207/Swiita)
 
@@ -35,11 +42,15 @@ Serial-terminal software for Linux and OS X.
 ![GitHub Actions CI](https://github.com/Enchan1207/Swiita/workflows/CI/badge.svg?branch=master)  
 Qiita API Client Framework.  
 
+---
+
 ### [CartUtil](https://github.com/Enchan1207/CartUtil)
 
 ![lang:JS](https://img.shields.io/badge/language-Javascript-F7DF1E) 
 [![version](https://img.shields.io/github/v/release/Enchan1207/CartUtil)](https://github.com/Enchan1207/CartUtil/releases)  
 Chrome Extension for akizukidenshi.com and switch-science.com providing wishlist.  
+
+---
 
 ## Contributions
 
