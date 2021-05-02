@@ -52,6 +52,26 @@ Chrome Extension for akizukidenshi.com and switch-science.com providing wishlist
 
 ---
 
+## Latest Gists
+
+Sometimes I write small snippets or articles on GitHub Gist.
+I hope some of them can help you :)
+
+### [Issue駆動開発とは](https://gist.github.com/Enchan1207/0ea2c7a7d6a3c16aea5683435d1972f8)
+
+An overview of Issue-Driven-Development and practical examples using GitHub features.
+
+### [ArrayToDict.swift](https://gist.github.com/Enchan1207/278b3f2fe54cf534ea2e1858fc7dfbf2)
+
+![lang:Swift](https://img.shields.io/badge/language-Swift-FA7343)  
+
+Example implementation of convert from Array to Dict written in Swift.
+
+### [ColorfulTerm.c](https://gist.github.com/Enchan1207/ee1489c2db2303c511be6b1ed2d22d16)
+
+![lang:C](https://img.shields.io/badge/language-C-A8B9CC)  
+Example of drawing colorful text animation in the terminal.  
+
 ## Contributions
 
 I contribute to a few opensource software repositories.
