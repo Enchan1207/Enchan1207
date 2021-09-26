@@ -1,7 +1,6 @@
 # Hi there! I'm Enchan.
 
-I'm a NITNagano-C ([department: Electronic control engineering](https://www.nagano-nct.ac.jp/course/control/)) student.  
-And I love Swift!  
+I'm amateur Swift lover, NITNagano-C ([department: Electronic control engineering](https://www.nagano-nct.ac.jp/course/control/)) student.  
 
 [![Twitter](https://img.shields.io/badge/twitter-@EnchanLab-1DA1F2?logo=Twitter)](https://twitter.com/EnchanLab) 
 [![Qiita](https://img.shields.io/badge/Qiita-@Enchan-55C500?logo=Qiita)](https://qiita.com/Enchan)  
