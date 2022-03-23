@@ -1,17 +1,28 @@
 # Hi there! I'm Enchan.
 
-I'm amateur Swift lover, NITNagano-C ([department: Electronic control engineering](https://www.nagano-nct.ac.jp/course/control/)) student.  
+I'm amateur Swift lover, NITNagano-C student.  
 
 [![Twitter](https://img.shields.io/badge/twitter-@EnchanLab-1DA1F2?logo=Twitter)](https://twitter.com/EnchanLab) 
-[![Qiita](https://img.shields.io/badge/Qiita-@Enchan-55C500?logo=Qiita)](https://qiita.com/Enchan)  
+[![Qiita](https://img.shields.io/badge/Qiita-@Enchan-55C500?logo=Qiita)](https://qiita.com/Enchan)
+[![Hatena blog](https://img.shields.io/badge/Hatenablog-enchan1207-00A4DE?logo=Hatena%20Bookmark)](https://enchan1207.hatenablog.com/)
 
 [![userstat](https://github-readme-stats.vercel.app/api?username=Enchan1207&show_icons=true&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  
 [![userlang](https://github-readme-stats.vercel.app/api/top-langs/?username=Enchan1207&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## Latest Releases
 
-I released some applications, command line tools, chrome extensions, ... and more!  
-Click release badge to jump latest release page.  
+主な制作物. アプリケーションからCLIツール、Chrome拡張まで色々作っています.  
+それぞれのリリースバッジをクリックすると、最新リリースのページに飛びます.
+
+---
+
+### [pip_init](https://github.com/Enchan1207/pip_init)
+[<img src="https://github.com/Enchan1207/pip_init/blob/master/banner.png" width="150" alt="pip_init banner">](https://github.com/Enchan1207/pip_init)   
+![lang:Python](https://img.shields.io/badge/language-Python-1A6CB3)
+[![version](https://img.shields.io/github/v/release/Enchan1207/pip_init)](https://github.com/Enchan1207/pip_init/releases)
+[![Unittest](https://github.com/Enchan1207/pip_init/actions/workflows/ci.yml/badge.svg)](https://github.com/Enchan1207/pip_init/actions/workflows/ci.yml)
+
+Python パッケージテンプレート展開ユーティリティ
 
 ---
 
@@ -21,7 +32,8 @@ Click release badge to jump latest release page.
 [![version](https://img.shields.io/github/v/release/Enchan1207/GitGrassIndicator)](https://github.com/Enchan1207/GitGrassIndicator/releases) 
 [![CI](https://github.com/Enchan1207/GitGrassIndicator/workflows/Periodic%20update/badge.svg)](https://github.com/Enchan1207/GitGrassIndicator/actions) 
 [![Qiita posted](https://img.shields.io/badge/Qiita-posted-55C500?logo=Qiita)](https://qiita.com/Enchan/items/62fd1796c882847f44f4)  
-Draw a contribution ring on the Twitter icon.
+
+その日の進捗量に応じた色のリングを, Twitterアイコンに描画します.
 
 ---
 
@@ -29,7 +41,8 @@ Draw a contribution ring on the Twitter icon.
 
 ![lang:C](https://img.shields.io/badge/language-C-A8B9CC) 
 [![version](https://img.shields.io/github/v/release/Enchan1207/Serialterm)](https://github.com/Enchan1207/SerialTerm/releases)  
-Serial-terminal software for Linux and OS X.
+
+termios系をサポートしているOS向けのシンプルなシリアルターミナルソフト.
 
 ---
 
@@ -39,7 +52,8 @@ Serial-terminal software for Linux and OS X.
 ![lang:Swift](https://img.shields.io/badge/language-Swift-FA7343) 
 [![version](https://img.shields.io/github/v/release/Enchan1207/Swiita)](https://github.com/Enchan1207/Swiita/releases) 
 ![GitHub Actions CI](https://github.com/Enchan1207/Swiita/workflows/CI/badge.svg?branch=master)  
-Qiita API Client Framework.  
+
+Swift製 QiitaAPIクライアントフレームワーク.
 
 ---
 
@@ -47,32 +61,30 @@ Qiita API Client Framework.
 
 ![lang:JS](https://img.shields.io/badge/language-Javascript-F7DF1E) 
 [![version](https://img.shields.io/github/v/release/Enchan1207/CartUtil)](https://github.com/Enchan1207/CartUtil/releases)  
-Chrome Extension for akizukidenshi.com and switch-science.com providing wishlist.  
+
+秋月電子・スイッチサイエンスのページに「ほしい物リスト」を追加するChrome拡張機能.  
+manifestバージョンが古いので改善工事中.
 
 ---
 
 ## Latest Gists
 
-Sometimes I write small snippets or articles on GitHub Gist.
-I hope some of them can help you :)
-
-### [Issue駆動開発とは](https://gist.github.com/Enchan1207/0ea2c7a7d6a3c16aea5683435d1972f8)
-
-An overview of Issue-Driven-Development and practical examples using GitHub features.
+GitHub Gist にスニペットやらちょっとした記事やらを投稿することがあります.
 
 ### [ArrayToDict.swift](https://gist.github.com/Enchan1207/278b3f2fe54cf534ea2e1858fc7dfbf2)
 
 ![lang:Swift](https://img.shields.io/badge/language-Swift-FA7343)  
 
-Example implementation of convert from Array to Dict written in Swift.
+ArrayをDictに変換するSwiftコード
 
 ### [ColorfulTerm.c](https://gist.github.com/Enchan1207/ee1489c2db2303c511be6b1ed2d22d16)
 
 ![lang:C](https://img.shields.io/badge/language-C-A8B9CC)  
-Example of drawing colorful text animation in the terminal.  
+
+ターミナルでカラフルなテキストを出力するCコード
 
 ## Contributions
 
-I contribute to a few opensource software repositories.
+ほんのちょっとだけOSSにも貢献しています.
 
  - [Swifter](https://github.com/mattdonnelly/Swifter/)
