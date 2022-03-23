@@ -71,6 +71,16 @@ manifestバージョンが古いので改善工事中.
 
 GitHub Gist にスニペットやらちょっとした記事やらを投稿することがあります.
 
+### [datetimeとタイムゾーンとpytzの話](https://gist.github.com/Enchan1207/8027e730caf486428843061a231f3418)
+
+![lang:Python](https://img.shields.io/badge/language-Python-1A6CB3)
+
+`datetime`モジュールの罠とその対策について
+
+### [vCardファイルの怪](https://gist.github.com/Enchan1207/a15150027c6caa0f99038a87b90200d6)
+
+スマホの連絡先ファイルってどんな形式になってるんだろ? から始まったとっても面倒なお話
+
 ### [ArrayToDict.swift](https://gist.github.com/Enchan1207/278b3f2fe54cf534ea2e1858fc7dfbf2)
 
 ![lang:Swift](https://img.shields.io/badge/language-Swift-FA7343)  
