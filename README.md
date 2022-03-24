@@ -16,11 +16,11 @@ I'm amateur Swift lover, NITNagano-C student.
 
 ---
 
-### [pip_init](https://github.com/Enchan1207/pip_init)
-[<img src="https://github.com/Enchan1207/pip_init/blob/master/banner.png" width="150" alt="pip_init banner">](https://github.com/Enchan1207/pip_init)   
+### [blueprintpy](https://github.com/Enchan1207/blueprintpy)
+[<img src="https://github.com/Enchan1207/blueprintpy/blob/master/banner.png" width="150" alt="blueprintpy banner">](https://github.com/Enchan1207/blueprintpy)   
 ![lang:Python](https://img.shields.io/badge/language-Python-1A6CB3)
-[![version](https://img.shields.io/github/v/release/Enchan1207/pip_init)](https://github.com/Enchan1207/pip_init/releases)
-[![Unittest](https://github.com/Enchan1207/pip_init/actions/workflows/ci.yml/badge.svg)](https://github.com/Enchan1207/pip_init/actions/workflows/ci.yml)
+[![version](https://img.shields.io/github/v/release/Enchan1207/blueprintpy)](https://github.com/Enchan1207/blueprintpy/releases)
+[![Unittest](https://github.com/Enchan1207/blueprintpy/actions/workflows/ci.yml/badge.svg)](https://github.com/Enchan1207/blueprintpy/actions/workflows/ci.yml)
 
 Python パッケージテンプレート展開ユーティリティ
 
