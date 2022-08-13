@@ -17,12 +17,11 @@ I'm amateur Swift lover, NITNagano-C student.
 ---
 
 ### [blueprintpy](https://github.com/Enchan1207/blueprintpy)
-[<img src="https://github.com/Enchan1207/blueprintpy/blob/master/banner.png" width="150" alt="blueprintpy banner">](https://github.com/Enchan1207/blueprintpy)   
+[<img src="https://github.com/Enchan1207/blueprintpy/blob/release/banner.png" width="150" alt="blueprintpy banner">](https://github.com/Enchan1207/blueprintpy)   
 ![lang:Python](https://img.shields.io/badge/language-Python-1A6CB3)
 [![version](https://img.shields.io/github/v/release/Enchan1207/blueprintpy)](https://github.com/Enchan1207/blueprintpy/releases)
-[![Unittest](https://github.com/Enchan1207/blueprintpy/actions/workflows/ci.yml/badge.svg)](https://github.com/Enchan1207/blueprintpy/actions/workflows/ci.yml)
 
-Python パッケージテンプレート展開ユーティリティ
+汎用パッケージコンフィグCLIジェネレータ
 
 ---
 
