@@ -21,7 +21,18 @@ I'm amateur Swift lover, NITNagano-C student.
 ![lang:Python](https://img.shields.io/badge/language-Python-1A6CB3)
 [![version](https://img.shields.io/github/v/release/Enchan1207/blueprintpy)](https://github.com/Enchan1207/blueprintpy/releases)
 
-汎用パッケージコンフィグCLIジェネレータ
+汎用パッケージコンフィグCLIジェネレータ. ライブラリの基本構成も,パッケージの雛形も,テンプレートで再利用しよう.  
+テンプレートはJinja2構文で自作できます.
+
+---
+
+### [tinystr](https://github.com/Enchan1207/tinystr)
+![lang:C](https://img.shields.io/badge/language-C-A8B9CC)
+[![version](https://img.shields.io/github/v/release/Enchan1207/tinystr)](https://github.com/Enchan1207/tinystr/releases)
+[![CMake](https://github.com/Enchan1207/tinystr/actions/workflows/cmake.yml/badge.svg)](https://github.com/Enchan1207/tinystr/actions/workflows/cmake.yml)
+
+C向けのちょっとした文字列ハンドリングライブラリ.  
+cmakeによるCコード群のパッケージ化および依存関係の解決を学習するために作ったものです。
 
 ---
 
@@ -32,7 +43,8 @@ I'm amateur Swift lover, NITNagano-C student.
 [![CI](https://github.com/Enchan1207/GitGrassIndicator/workflows/Periodic%20update/badge.svg)](https://github.com/Enchan1207/GitGrassIndicator/actions) 
 [![Qiita posted](https://img.shields.io/badge/Qiita-posted-55C500?logo=Qiita)](https://qiita.com/Enchan/items/62fd1796c882847f44f4)  
 
-その日の進捗量に応じた色のリングを, Twitterアイコンに描画します.
+その日の進捗量に応じた色のリングをTwitterのアイコンに描画します.  
+現在停止中.
 
 ---
 
@@ -41,7 +53,8 @@ I'm amateur Swift lover, NITNagano-C student.
 ![lang:C](https://img.shields.io/badge/language-C-A8B9CC) 
 [![version](https://img.shields.io/github/v/release/Enchan1207/Serialterm)](https://github.com/Enchan1207/SerialTerm/releases)  
 
-termios系をサポートしているOS向けのシンプルなシリアルターミナルソフト.
+termios系をサポートしているOS向けのシンプルなシリアルターミナルソフト.  
+screenなんて使わねえ！という硬派な人向け。  
 
 ---
 
@@ -52,7 +65,8 @@ termios系をサポートしているOS向けのシンプルなシリアルタ�
 [![version](https://img.shields.io/github/v/release/Enchan1207/Swiita)](https://github.com/Enchan1207/Swiita/releases) 
 ![GitHub Actions CI](https://github.com/Enchan1207/Swiita/workflows/CI/badge.svg?branch=master)  
 
-Swift製 QiitaAPIクライアントフレームワーク.
+Swift製 QiitaAPIクライアントフレームワーク.  
+作ったはいいけど肝心のアプリケーションのアイデアが思い浮かばないいつものパターン.
 
 ---
 
