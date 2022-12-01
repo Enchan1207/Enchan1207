@@ -7,7 +7,6 @@ I'm amateur Swift lover, NITNagano-C student.
 [![Hatena blog](https://img.shields.io/badge/Hatenablog-enchan1207-00A4DE?logo=Hatena%20Bookmark)](https://enchan1207.hatenablog.com/)
 
 [![userstat](https://github-readme-stats.vercel.app/api?username=Enchan1207&show_icons=true&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  
-[![userlang](https://github-readme-stats.vercel.app/api/top-langs/?username=Enchan1207&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## Latest Releases
 
