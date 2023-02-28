@@ -27,6 +27,17 @@ I'm amateur Swift lover, NITNagano-C student.
 
 ---
 
+### [collection2](https://github.com/Enchan1207/collection2)
+[<img src="https://github.com/Enchan1207/collection2/blob/master/banner.png" width="150" alt="collection2 banner">](https://github.com/Enchan1207/collection2)   
+![lang:C++](https://img.shields.io/badge/language-C++-A8B9CC)
+[![version](https://img.shields.io/github/v/release/Enchan1207/collection2)](https://github.com/Enchan1207/collection2/releases)
+[![CMake](https://github.com/Enchan1207/collection2/actions/workflows/cmake.yml/badge.svg)](https://github.com/Enchan1207/collection2/actions/workflows/cmake.yml)
+
+組込みシステム向けに最適化された,一般的なコレクション構造の実装.`malloc` も `new` も, STLも使用していないので,Arduinoにも使えるはずです.  
+C++のヘッダオンリライブラリとしては処女作. 名前の由来は 「コレクション(データ構造) の コレクション(寄せ集め)」 から.
+
+---
+
 ### [tinystr](https://github.com/Enchan1207/tinystr)
 ![lang:C](https://img.shields.io/badge/language-C-A8B9CC)
 [![version](https://img.shields.io/github/v/release/Enchan1207/tinystr)](https://github.com/Enchan1207/tinystr/releases)
