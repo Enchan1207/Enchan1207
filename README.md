@@ -10,10 +10,28 @@ I'm amateur Swift lover, NITNagano-C student.
 
 [![userstat](https://github-readme-stats.vercel.app/api?username=Enchan1207&show_icons=true&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  
 
-## Latest Releases
+## Recent projects
 
-主な制作物. アプリケーションからCLIツール、Chrome拡張まで色々作っています.  
-それぞれのリリースバッジをクリックすると、最新リリースのページに飛びます.
+最近の制作物です.
+
+---
+
+### [botanist](https://github.com/Enchan1207/botanist)
+[<img src="https://github.com/Enchan1207/botanist/blob/master/banner.png" width="150" alt="botanist banner">](https://github.com/Enchan1207/botanist)   
+![lang:C++](https://img.shields.io/badge/language-C++-A8B9CC)
+[![version](https://img.shields.io/github/v/release/Enchan1207/botanist)](https://github.com/Enchan1207/botanist/releases)
+[![unittest](https://github.com/Enchan1207/botanist/actions/workflows/unittest.yml/badge.svg)](https://github.com/Enchan1207/botanist/actions/workflows/unittest.yml)
+
+基本的な数式のパースと評価.AVRマイコンでも動作します. 依存関係に [collection2](https://github.com/Enchan1207/collection2), テストケースの実行に [avr-serial](https://github.com/Enchan1207/avr-serial) を使用しています.
+
+---
+
+### [avr-serial](https://github.com/Enchan1207/avr-serial)
+![lang:C++](https://img.shields.io/badge/language-C++-A8B9CC)
+[![version](https://img.shields.io/github/v/release/Enchan1207/avr-serial)](https://github.com/Enchan1207/avr-serial/releases)
+[![unittest (emulated by QEMU)](https://github.com/Enchan1207/avr-serial/actions/workflows/emulation.yml/badge.svg)](https://github.com/Enchan1207/avr-serial/actions/workflows/emulation.yml)
+
+AVRマイコンのUARTモジュールをいい感じに使うためのライブラリ.Arduinoライクに使用でき、かつCMakeを用いて依存関係として管理することもできます. 依存関係に [collection2](https://github.com/Enchan1207/collection2)を使用しています.
 
 ---
 
@@ -22,8 +40,7 @@ I'm amateur Swift lover, NITNagano-C student.
 ![lang:Python](https://img.shields.io/badge/language-Python-1A6CB3)
 [![version](https://img.shields.io/github/v/release/Enchan1207/blueprintpy)](https://github.com/Enchan1207/blueprintpy/releases)
 
-汎用パッケージコンフィグCLIジェネレータ. ライブラリの基本構成も,パッケージの雛形も,テンプレートで再利用しよう.  
-テンプレートはJinja2構文で自作できます.
+汎用パッケージコンフィグCLIジェネレータ. ライブラリの基本構成も,パッケージの雛形も,テンプレートで再利用しよう. テンプレートはJinja2構文で自作できます.
 
 ---
 
@@ -31,54 +48,10 @@ I'm amateur Swift lover, NITNagano-C student.
 [<img src="https://github.com/Enchan1207/collection2/blob/master/banner.png" width="150" alt="collection2 banner">](https://github.com/Enchan1207/collection2)   
 ![lang:C++](https://img.shields.io/badge/language-C++-A8B9CC)
 [![version](https://img.shields.io/github/v/release/Enchan1207/collection2)](https://github.com/Enchan1207/collection2/releases)
-[![CMake](https://github.com/Enchan1207/collection2/actions/workflows/cmake.yml/badge.svg)](https://github.com/Enchan1207/collection2/actions/workflows/cmake.yml)
+[![unittest](https://github.com/Enchan1207/collection2/actions/workflows/unittest.yml/badge.svg)](https://github.com/Enchan1207/collection2/actions/workflows/unittest.yml)
 
-組込みシステム向けに最適化された,一般的なコレクション構造の実装.`malloc` も `new` も, STLも使用していないので,Arduinoにも使えるはずです.  
-C++のヘッダオンリライブラリとしては処女作. 名前の由来は 「コレクション(データ構造) の コレクション(寄せ集め)」 から.
-
----
-
-### [tinystr](https://github.com/Enchan1207/tinystr)
-![lang:C](https://img.shields.io/badge/language-C-A8B9CC)
-[![version](https://img.shields.io/github/v/release/Enchan1207/tinystr)](https://github.com/Enchan1207/tinystr/releases)
-[![CMake](https://github.com/Enchan1207/tinystr/actions/workflows/cmake.yml/badge.svg)](https://github.com/Enchan1207/tinystr/actions/workflows/cmake.yml)
-
-C向けのちょっとした文字列ハンドリングライブラリ.  
-cmakeによるCコード群のパッケージ化および依存関係の解決を学習するために作ったものです。
-
----
-
-### [GitGrass Indicator](https://github.com/Enchan1207/GitGrassIndicator)  
-[<img width="150" src="https://github.com/Enchan1207/GitGrassIndicator/blob/main/banner.png" />](https://github.com/Enchan1207/GitGrassIndicator)  
-![lang:Swift](https://img.shields.io/badge/language-Swift-FA7343) 
-[![version](https://img.shields.io/github/v/release/Enchan1207/GitGrassIndicator)](https://github.com/Enchan1207/GitGrassIndicator/releases) 
-[![CI](https://github.com/Enchan1207/GitGrassIndicator/workflows/Periodic%20update/badge.svg)](https://github.com/Enchan1207/GitGrassIndicator/actions) 
-[![Qiita posted](https://img.shields.io/badge/Qiita-posted-55C500?logo=Qiita)](https://qiita.com/Enchan/items/62fd1796c882847f44f4)  
-
-その日の進捗量に応じた色のリングをTwitterのアイコンに描画します.  
-現在停止中.
-
----
-
-### [SerialTerm](https://github.com/Enchan1207/SerialTerm)
-
-![lang:C](https://img.shields.io/badge/language-C-A8B9CC) 
-[![version](https://img.shields.io/github/v/release/Enchan1207/Serialterm)](https://github.com/Enchan1207/SerialTerm/releases)  
-
-termios系をサポートしているOS向けのシンプルなシリアルターミナルソフト.  
-screenなんて使わねえ！という硬派な人向け。  
-
----
-
-### [Swiita](https://github.com/Enchan1207/Swiita)
-
-[<img width="150" src="https://github.com/Enchan1207/Swiita/blob/master/banner.png" />](https://github.com/Enchan1207/Swiita)  
-![lang:Swift](https://img.shields.io/badge/language-Swift-FA7343) 
-[![version](https://img.shields.io/github/v/release/Enchan1207/Swiita)](https://github.com/Enchan1207/Swiita/releases) 
-![GitHub Actions CI](https://github.com/Enchan1207/Swiita/workflows/CI/badge.svg?branch=master)  
-
-Swift製 QiitaAPIクライアントフレームワーク.  
-作ったはいいけど肝心のアプリケーションのアイデアが思い浮かばないいつものパターン.
+組込みシステム向けに最適化された,一般的なコレクション構造の実装.AVRマイコンでも動作します. 名前の由来は 「コレクション(データ構造) の コレクション(寄せ集め)」 から.
+テストケースの実行に [avr-serial](https://github.com/Enchan1207/avr-serial) を使用しています.
 
 ---
 
@@ -105,18 +78,6 @@ GitHub Gist にスニペットやらちょっとした記事やらを投稿す�
 ### [vCardファイルの怪](https://gist.github.com/Enchan1207/a15150027c6caa0f99038a87b90200d6)
 
 スマホの連絡先ファイルってどんな形式になってるんだろ? から始まったとっても面倒なお話
-
-### [ArrayToDict.swift](https://gist.github.com/Enchan1207/278b3f2fe54cf534ea2e1858fc7dfbf2)
-
-![lang:Swift](https://img.shields.io/badge/language-Swift-FA7343)  
-
-ArrayをDictに変換するSwiftコード
-
-### [ColorfulTerm.c](https://gist.github.com/Enchan1207/ee1489c2db2303c511be6b1ed2d22d16)
-
-![lang:C](https://img.shields.io/badge/language-C-A8B9CC)  
-
-ターミナルでカラフルなテキストを出力するCコード
 
 ## Contributions
 
