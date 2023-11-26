@@ -16,8 +16,17 @@ I'm amateur Swift lover, NITNagano-C student.
 
 ---
 
+### [rpi-buildroot](https://github.com/Enchan1207/rpi-buildroot)
+[<img src="https://github.com/Enchan1207/rpi-buildroot/blob/master/banner.png" width="400" alt="rpi-buildroot banner">](https://github.com/Enchan1207/rpi-buildroot)   
+[![version](https://img.shields.io/github/v/release/Enchan1207/rpi-buildroot)](https://github.com/Enchan1207/rpi-buildroot/releases)
+[![Zenn](https://img.shields.io/static/v1?label=Zenn&message=comming%20soon&color=3ea8ff&logo=zenn)](https://zenn.dev/enchan1207/articles/bdcbff1ba58943)
+
+組込みLinuxのビルドシステム[Buildroot](https://buildroot.org/)を用いて、Raspberry Piのカスタムイメージを生成する GitHub Actions アクション。
+
+---
+
 ### [botanist](https://github.com/Enchan1207/botanist)
-[<img src="https://github.com/Enchan1207/botanist/blob/master/banner.png" width="150" alt="botanist banner">](https://github.com/Enchan1207/botanist)   
+[<img src="https://github.com/Enchan1207/botanist/blob/master/banner.png" width="400" alt="botanist banner">](https://github.com/Enchan1207/botanist)   
 ![lang:C++](https://img.shields.io/badge/language-C++-A8B9CC)
 [![version](https://img.shields.io/github/v/release/Enchan1207/botanist)](https://github.com/Enchan1207/botanist/releases)
 [![unittest](https://github.com/Enchan1207/botanist/actions/workflows/unittest.yml/badge.svg)](https://github.com/Enchan1207/botanist/actions/workflows/unittest.yml)
@@ -35,17 +44,8 @@ AVRマイコンのUARTモジュールをいい感じに使うためのライブ�
 
 ---
 
-### [blueprintpy](https://github.com/Enchan1207/blueprintpy)
-[<img src="https://github.com/Enchan1207/blueprintpy/blob/release/banner.png" width="150" alt="blueprintpy banner">](https://github.com/Enchan1207/blueprintpy)   
-![lang:Python](https://img.shields.io/badge/language-Python-1A6CB3)
-[![version](https://img.shields.io/github/v/release/Enchan1207/blueprintpy)](https://github.com/Enchan1207/blueprintpy/releases)
-
-汎用パッケージコンフィグCLIジェネレータ. ライブラリの基本構成も,パッケージの雛形も,テンプレートで再利用しよう. テンプレートはJinja2構文で自作できます.
-
----
-
 ### [collection2](https://github.com/Enchan1207/collection2)
-[<img src="https://github.com/Enchan1207/collection2/blob/master/banner.png" width="150" alt="collection2 banner">](https://github.com/Enchan1207/collection2)   
+[<img src="https://github.com/Enchan1207/collection2/blob/master/banner.png" width="400" alt="collection2 banner">](https://github.com/Enchan1207/collection2)   
 ![lang:C++](https://img.shields.io/badge/language-C++-A8B9CC)
 [![version](https://img.shields.io/github/v/release/Enchan1207/collection2)](https://github.com/Enchan1207/collection2/releases)
 [![unittest](https://github.com/Enchan1207/collection2/actions/workflows/unittest.yml/badge.svg)](https://github.com/Enchan1207/collection2/actions/workflows/unittest.yml)
