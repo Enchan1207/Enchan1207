@@ -83,4 +83,4 @@ GitHub Gist にスニペットやらちょっとした記事やらを投稿す�
 
 ほんのちょっとだけOSSにも貢献しています.
 
- - [Swifter](https://github.com/mattdonnelly/Swifter/)
+ - mattdonnelly/Swifter [#306](https://github.com/mattdonnelly/Swifter/pull/306)
