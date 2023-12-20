@@ -19,7 +19,7 @@ I'm amateur Swift lover, NITNagano-C student.
 ### [rpi-buildroot](https://github.com/Enchan1207/rpi-buildroot)
 [<img src="https://github.com/Enchan1207/rpi-buildroot/blob/master/banner.png" width="400" alt="rpi-buildroot banner">](https://github.com/marketplace/actions/rpi-buildroot)   
 [![version](https://img.shields.io/github/v/release/Enchan1207/rpi-buildroot)](https://github.com/Enchan1207/rpi-buildroot/releases)
-[![Zenn](https://img.shields.io/static/v1?label=Zenn&message=comming%20soon&color=3ea8ff&logo=zenn)](https://zenn.dev/enchan1207/articles/bdcbff1ba58943)
+[![Zenn](https://img.shields.io/static/v1?label=Zenn&message=posted&color=3ea8ff&logo=zenn)](https://zenn.dev/enchan1207/articles/bdcbff1ba58943)
 
 組込みLinuxのビルドシステム[Buildroot](https://buildroot.org/)を用いて、Raspberry Piのカスタムイメージを生成する GitHub Actions アクション。
 
