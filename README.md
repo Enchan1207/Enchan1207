@@ -1,6 +1,6 @@
 # Hi there! I'm Enchan.
 
-I'm amateur Swift lover, NITNagano-C student.  
+I'm amateur Swift lover.  
 
 [![Twitter](https://img.shields.io/badge/twitter-@EnchanLab-1DA1F2?logo=Twitter)](https://twitter.com/EnchanLab) 
 [![Qiita](https://img.shields.io/badge/Qiita-@Enchan-55C500?logo=Qiita)](https://qiita.com/Enchan)
