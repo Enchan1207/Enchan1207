@@ -16,6 +16,14 @@ I'm amateur Swift lover.
 
 ---
 
+### [Cygnus](https://github.com/Enchan1207/Cygnus)
+[<img src="https://github.com/Enchan1207/Cygnus/blob/master/banner.png" width="400" alt="rpi-buildroot banner">](https://github.com/Enchan1207/Cygnus)  
+[![version](https://img.shields.io/github/v/release/Enchan1207/Cygnus)](https://github.com/Enchan1207/Cygnus/releases)
+
+スクリプト言語**Lua**をSwiftプロジェクトに埋め込むためのパッケージ。Processing風の言語環境を提供する[macOS用のサンプルアプリ](https://github.com/Enchan1207/Cygnus/tree/demo-macOS)も提供しています。
+
+---
+
 ### [rpi-buildroot](https://github.com/Enchan1207/rpi-buildroot)
 [<img src="https://github.com/Enchan1207/rpi-buildroot/blob/master/banner.png" width="400" alt="rpi-buildroot banner">](https://github.com/marketplace/actions/rpi-buildroot)   
 [![version](https://img.shields.io/github/v/release/Enchan1207/rpi-buildroot)](https://github.com/Enchan1207/rpi-buildroot/releases)
