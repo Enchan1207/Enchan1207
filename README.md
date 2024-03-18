@@ -19,6 +19,7 @@ I'm amateur Swift lover.
 ### [Cygnus](https://github.com/Enchan1207/Cygnus)
 [<img src="https://github.com/Enchan1207/Cygnus/blob/master/banner.png" width="400" alt="rpi-buildroot banner">](https://github.com/Enchan1207/Cygnus)  
 [![version](https://img.shields.io/github/v/release/Enchan1207/Cygnus)](https://github.com/Enchan1207/Cygnus/releases)
+[![Zenn](https://img.shields.io/static/v1?label=Zenn&message=posted&color=3ea8ff&logo=zenn)](https://zenn.dev/enchan1207/articles/ac580ec2734183)
 
 スクリプト言語**Lua**をSwiftプロジェクトに埋め込むためのパッケージ。Processing風の言語環境を提供する[macOS用のサンプルアプリ](https://github.com/Enchan1207/Cygnus/tree/demo-macOS)も提供しています。
 
@@ -35,7 +36,6 @@ I'm amateur Swift lover.
 
 ### [botanist](https://github.com/Enchan1207/botanist)
 [<img src="https://github.com/Enchan1207/botanist/blob/master/banner.png" width="400" alt="botanist banner">](https://github.com/Enchan1207/botanist)   
-![lang:C++](https://img.shields.io/badge/language-C++-A8B9CC)
 [![version](https://img.shields.io/github/v/release/Enchan1207/botanist)](https://github.com/Enchan1207/botanist/releases)
 [![unittest](https://github.com/Enchan1207/botanist/actions/workflows/unittest.yml/badge.svg)](https://github.com/Enchan1207/botanist/actions/workflows/unittest.yml)
 
@@ -43,33 +43,12 @@ I'm amateur Swift lover.
 
 ---
 
-### [avr-serial](https://github.com/Enchan1207/avr-serial)
-![lang:C++](https://img.shields.io/badge/language-C++-A8B9CC)
-[![version](https://img.shields.io/github/v/release/Enchan1207/avr-serial)](https://github.com/Enchan1207/avr-serial/releases)
-[![unittest (emulated by QEMU)](https://github.com/Enchan1207/avr-serial/actions/workflows/emulation.yml/badge.svg)](https://github.com/Enchan1207/avr-serial/actions/workflows/emulation.yml)
-
-AVRマイコンのUARTモジュールをいい感じに使うためのライブラリ.Arduinoライクに使用でき、かつCMakeを用いて依存関係として管理することもできます. 依存関係に [collection2](https://github.com/Enchan1207/collection2)を使用しています.
-
----
-
-### [collection2](https://github.com/Enchan1207/collection2)
-[<img src="https://github.com/Enchan1207/collection2/blob/master/banner.png" width="400" alt="collection2 banner">](https://github.com/Enchan1207/collection2)   
-![lang:C++](https://img.shields.io/badge/language-C++-A8B9CC)
-[![version](https://img.shields.io/github/v/release/Enchan1207/collection2)](https://github.com/Enchan1207/collection2/releases)
-[![unittest](https://github.com/Enchan1207/collection2/actions/workflows/unittest.yml/badge.svg)](https://github.com/Enchan1207/collection2/actions/workflows/unittest.yml)
-
-組込みシステム向けに最適化された,一般的なコレクション構造の実装.AVRマイコンでも動作します. 名前の由来は 「コレクション(データ構造) の コレクション(寄せ集め)」 から.
-テストケースの実行に [avr-serial](https://github.com/Enchan1207/avr-serial) を使用しています.
-
----
-
 ### [CartUtil](https://github.com/Enchan1207/CartUtil)
 
-![lang:JS](https://img.shields.io/badge/language-Javascript-F7DF1E) 
 [![version](https://img.shields.io/github/v/release/Enchan1207/CartUtil)](https://github.com/Enchan1207/CartUtil/releases)  
 
 秋月電子・スイッチサイエンスのページに「ほしい物リスト」を追加するChrome拡張機能.  
-manifestバージョンが古いので改善工事中.
+manifestバージョンが古いので改善工事中.…といいつつ何年経ったんだろう…
 
 ---
 
