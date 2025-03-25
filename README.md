@@ -1,8 +1,7 @@
 # Hi there! I'm Enchan.
 
 I'm amateur Swift lover, web engineer.  
-
-[![Twitter](https://img.shields.io/badge/Twitter-@EnchanLab-1DA1F2?logo=Twitter)](https://twitter.com/EnchanLab) 
+ 
 [![Qiita](https://img.shields.io/badge/Qiita-@Enchan-55C500?logo=Qiita)](https://qiita.com/Enchan)
 [![Hatena blog](https://img.shields.io/badge/Hatenablog-enchan1207-00A4DE?logo=Hatena%20Bookmark)](https://enchan1207.hatenablog.com/)
 [![Zenn](https://img.shields.io/static/v1?label=Zenn&message=Enchan1207&color=3ea8ff&logo=zenn)](https://zenn.dev/enchan1207)
