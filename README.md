@@ -78,4 +78,5 @@ GitHub Gist にスニペットやらちょっとした記事やらを投稿し�
 
 ほんのちょっとだけOSSにも貢献しています。
 
+ - honojs/website [#622](https://github.com/honojs/website/pull/622)
  - mattdonnelly/Swifter [#306](https://github.com/mattdonnelly/Swifter/pull/306)
